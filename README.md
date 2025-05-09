@@ -1,4 +1,4 @@
-# data-science-CDA-Diabetes
+# Data-Science-CDA-Diabetes
 
 EDA singkatan dari Explanatory Data Analysis. saya melakukan Exploratory Data Analysis (EDA) pada dataset diabetes untuk memahami karakteristik pasien, mengidentifikasi pola, serta menemukan hubungan potensial. antara lain: umur, jenis kelamin, kadar glukosa, keratin tekanan darah, kolestrol, lemak dalam darah, indeks massa tubuh (BMI),dan kelas dengan kemungkinan terdiagnosis diabetes.
 
